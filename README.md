@@ -76,19 +76,76 @@
     </tr>
     <tr>
       <td>
-      <p style="color: red">JS Calculator</p>
+      <p style="color: red">Portfolio Website</p>
       <p>
         <strong>Tools: vanilla JS, pure HTML/CSS</strong>
       </p>
-      <p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. </p>
-      <p>You can find the code <a href="https://github.com/elenareach-developer/">here</a>. Deploy is <a href="https://elenareach-developer.github.io/vaccsine/">here</a> or you can click on the image below.</p>
+      <p>The <strong>Elena Reach - Software Engineer Portfolio</strong> showcases Elena Reach's professional journey, projects, and technical skills. It highlights her expertise in React, Vue, Node and Elastic Search</p>
+<p>Discover Elena's software engineering expertise.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/portfolio-vite">here</a>. Deploy is <a href="https://elenareach-developer.github.io/portfolio-vite/">here</a> or you can click on the image below.</p>
+
     </td>
     <td>
-      <a href="https://elenareach-developer.github.io/vaccsine/">
-        <img src ="./assets/calculator.png">
+      <a href="https://elenareach-developer.github.io/portfolio-vite/">
+        <img src ="./assets/portfolio.png">
       </a>
     </td>
   </tr>
+
+   <tr>
+      <td>
+      <p style="color: red">E-Commerce Store</p>
+      <p>
+        <strong>Tools: React,Veet, vanilla JS, pure HTML/CSS</strong>
+      </p>
+     <p>The <strong>Online Store</strong> is your convenient e-commerce destination. Explore a wide range of products and enjoy exclusive offers. Shop from a diverse selection, easily manage your cart, and reach out to us for support or inquiries. Experience hassle-free online shopping at the Online Store!</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/student-store">here</a>. Deploy is <a href="https://elenareach-developer.github.io/student-store/">here</a> or you can click on the image below.</p>
+
+    </td>
+    <td>
+      <a href="https://elenareach-developer.github.io/student-store/">
+        <img src ="./assets/student-store.png">
+      </a>
+    </td>
+  </tr>
+
+ <tr>
+      <td>
+      <p style="color: red">React Learning Showcase</p>
+      <p>
+        <strong>Tools: UseState,UseHook, React Hooks, vanilla JS, pure HTML/CSS</strong>
+      </p>
+   <p>Explore React development with this interactive showcase:</p>
+<p>1. Layout, Navigation, Hooks, Counting, State Updates, Quizzes - Enhance your React skills.</p>
+<p>Perfect for developers looking to level up their React game.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/useState-react">here</a>. Deploy is <a href="https://elenareach-developer.github.io/useState-react/">here</a> or you can click on the image below.</p>
+
+    </td>
+    <td>
+      <a href="https://elenareach-developer.github.io/useState-react/">
+        <img src ="./assets/usehook.png">
+      </a>
+    </td>
+  </tr>
+
+ <tr>
+      <td>
+      <p style="color: red">Dynamic Number Generator</p>
+      <p>
+        <strong>Tools: React, Veet.js, vanilla JS, pure HTML/CSS</strong>
+      </p>
+     <p>The "Dynamic Number Generator" is a user-friendly web app for uploading PDF files, displaying dynamic numbers, and user control.</p>
+<p>Upload PDFs, see real-time numbers, and manage auto-generation with Start and Stop buttons. It's a practical tool for various tasks.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/randomButtons---react">here</a>. Deploy is <a href="https://elenareach-developer.github.io/randomButtons---react/">here</a> or you can click on the image below.</p>
+
+    </td>
+    <td>
+      <a href="https://elenareach-developer.github.io/randomButtons---react/">
+        <img src ="./assets/randomButtons.png">
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 ### Web-site`s template
