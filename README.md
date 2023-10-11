@@ -49,57 +49,7 @@
     <p style="color: red">Gem puzzle</p>
     <p> <strong>Tools: React, vite.Js,CSS-Variables, Express.js</strong>
       </p>
-    <h1>Project Title: Vaccine Scheduler</h1>
-
-<h2>Overview:</h2>
-<p>The Vaccine Scheduler project is a user-friendly web application designed to assist users in scheduling their COVID-19 vaccine appointments. The portal offers a straightforward and intuitive interface for registering, logging in, scheduling the first appointment, and confirming appointments. Here's an overview of its core features and functionalities:</p>
-
-<ol>
-    <li>
-        <h3>Login and Registration:</h3>
-        <ul>
-            <li>Users can either log in or register for a new account.</li>
-            <li>Registration requires personal information such as first name, last name, email, password, and confirmation of the password.</li>
-            <li>A "Create Account" button facilitates registration.</li>
-        </ul>
-    </li>
-    <li>
-        <h3>Schedule First Appointment:</h3>
-        <ul>
-            <li>Registered users can schedule their first vaccine appointment.</li>
-            <li>Users are prompted to select a preferred date for their appointment using a date picker.</li>
-            <li>They can also choose their desired location, typically a local clinic.</li>
-        </ul>
-    </li>
-    <li>
-        <h3>Confirm Appointment:</h3>
-        <ul>
-            <li>After selecting a date and location, users can confirm their vaccine appointment.</li>
-        </ul>
-    </li>
-    <li>
-        <h3>Portal Access:</h3>
-        <ul>
-            <li>A welcoming message "Please login to the portal to see your appointment" encourages users to log in.</li>
-            <li>Users are reminded to log in to access and manage their appointments.</li>
-        </ul>
-    </li>
-    <li>
-        <h3>Login:</h3>
-        <ul>
-            <li>Registered users can log in securely to access their account and appointment details.</li>
-        </ul>
-    </li>
-    <li>
-        <h3>Registration for a Vaccine:</h3>
-        <ul>
-            <li>A link to register for a vaccine appointment is provided for new users.</li>
-            <li>Users can enter their personal information and create a new account to schedule appointments.</li>
-        </ul>
-    </li>
-</ol>
-<p>The Vaccine Scheduler portal offers a user-friendly and efficient platform for managing vaccine appointments. It simplifies the process, making it easier for individuals to register, schedule, and confirm their vaccination appointments.</p>
-
+    <p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
     <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
       <p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image on the right.</p>
     </td>
