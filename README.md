@@ -1,4 +1,3 @@
-![lifetracker](https://github.com/abdullahbest123/abdullahbest123/assets/90556112/80eb2455-25a1-4a5c-8415-9cd94572df31)<p align="right">
 <a href="https://linkedin.com/in/Elena-Reach"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Elena-Reach" height="30" /></a>
 <a href="https://fb.com/volha.khviadchenia"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
 <a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
@@ -51,11 +50,11 @@
       </p>
     <p>The Vaccine Scheduler is a user-friendly web app for COVID-19 vaccine appointments. Register, schedule, and confirm appointments easily. Features include login, registration, date selection, location preference, and secure login for access.</p>
     <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
-      <p>You can find the code <a href="https://github.com/elenareach-developer/vaccsine">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image on the right.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/vaccsine">here</a>. Deploy is <a href="https://elenareach-developer.github.io/vaccsine/">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/gem-puzzle/">
-      <img src ="./assets/gem-puzzle.jpg"></a>
+      <a href="https://elenareach-developer.github.io/vaccsine/">
+      <img src ="./assets/vaccine.png"></a>
     </td>
   </tr>
     <tr>
@@ -64,12 +63,14 @@
       <p>
         <strong>Tools: React.js, Vite.js vanilla.js, CSS-Variables, JS-Classes, JS-Destructuring</strong>
       </p>
+<p>"LifeTracker" - Your Health Companion</p>
+<p>Stay active and healthy with our fitness devices. Register, log in, and explore the world of health and fitness. Contact us for inquiries.</p>
       <p>The "LifeTracker" website is your destination for health and fitness. It offers various devices, encourages an active lifestyle, and features a trusted CodePath logo. Log in, register, and stay fit with advanced technology.</p>
-      <p>You can find the code <a href="https://github.com/confesssa/virtual-keyboard">here</a>. Deploy is <a href="https://confesssa.github.io/virtual-keyboard/">here</a> or you can click on the image on the right.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/lifetracker">here</a>. Deploy is <a href="https://elenareach-developer.github.io/lifetracker/">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/virtual-keyboard/">
-        <img src ="./assets/keyboard.png">
+      <a href="https://elenareach-developer.github.io/lifetracker/">
+        <img src ="./assets/lifetracker.png">
       </a>
     </td>
     </tr>
@@ -80,10 +81,10 @@
         <strong>Tools: vanilla JS, pure HTML/CSS</strong>
       </p>
       <p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. </p>
-      <p>You can find the code <a href="https://github.com/confesssa/calculator-JS">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/">here</a> or you can click on the image below.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/">here</a>. Deploy is <a href="https://elenareach-developer.github.io/vaccsine/">here</a> or you can click on the image below.</p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/calculator-JS/">
+      <a href="https://elenareach-developer.github.io/vaccsine/">
         <img src ="./assets/calculator.png">
       </a>
     </td>
