@@ -157,33 +157,31 @@
   </tr>
   <tr>
     <td>
-    <p style="color: red">Willberries</p>
-    <p> <strong>Tools: vanilla JavaScript, Farebase, fetch API, pure HTML/CSS, Bootsrap</strong>
+    <p style="color: red">Helsinkicitybike</p>
+    <p> <strong>Tools: vanilla JavaScript, React.Js pure HTML/CSS, Bootsrap</strong>
       </p>
-    <p>Here is an example of a marketplace.</p>
-    <p>The main page implements the receipt of data from the network, search and sorting by goods.</p>
-    <p>On the page with product categories you can add and process products in the shopping cart, implemented work with forms, and sending data from the shopping cart to the server.</p>
-    <p>You can find the code <a href="https://github.com/confesssa/wildberries">here</a>. Deploy is <a href="https://confesssa.github.io/wildberries/index.html">here</a> or you can click on the image on the right.</p>
-    <p><a href="https://www.figma.com/file/wKDy8hlEa1U7lvAzIiBxER/Will-Berries-(Copy)?node-id=0%3A1">Figma layout</a></p>
+    <p>The "Data Dashboard and Reporting" website offers easy navigation and a range of features for accessing and managing data.</p>
+<p>Explore order, customer, and integration sections, view current month and last quarter data, and dive into year-end sale statistics.</p>
+    <p>You can find the code <a href="https://github.com/elenareach-developer/Helsinkicitybike">here</a>. Deploy is <a href="https://elenareach-developer.github.io/Helsinkicitybike/">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/wildberries/index.html">
-      <img src ="./assets/willberries.jpg"></a>
+      <a href="https://elenareach-developer.github.io/Helsinkicitybike/">
+      <img src ="./assets/Helsinkicitybike.png"></a>
     </td>
   </tr>
 
   <tr>
     <td>
     <p style="color: red">Relvise</p>
-    <p> <strong>Tools: vanilla JavaScript, pure HTML/CSS, BEM-metodology, CSS-Flexbox, CSS-Variables</strong>
+    <p> <strong>Tools: vanilla JavaScript, pure HTML/CSS CSS-Flexbox, CSS-Variables</strong>
       </p>
-    <p>Here is a responsive layout for a finance and consulting company.</p>
-    <p>You can find the code <a href="https://github.com/confesssa/relvise">here</a>. Deploy is <a href="https://confesssa.github.io/Relvise/">here</a> or you can click on the image on the right.</p>
-    <p><a href="https://www.figma.com/file/ZiKvI8IWyuMf5IhSt9X5oV/Relvise-(Copy)?node-id=964%3A5456">Figma layout</a></p>
+    <p>The "Samantha He - Software Developer Portfolio" is a comprehensive online showcase that provides insight into Samantha He's professional journey as a software developer.</p>
+<p>Explore her diverse experiences and notable work in mobile app design, web design, and product design. Connect with Samantha to learn more about her contributions to the tech world.</p>
+    <p>You can find the code <a href="https://github.com/confesssa/site-week1-lab1-personal-website-exemplar">here</a>. Deploy is <a href="https://confesssa.github.io/site-week1-lab1-personal-website-exemplar/index.html">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/Relvise/">
-      <img src ="./assets/relvise.jpg"></a>
+      <a href="https://confesssa.github.io/site-week1-lab1-personal-website-exemplar/index.html">
+      <img src ="./assets/simplehtml.png"></a>
     </td>
   </tr>
     <tr>
