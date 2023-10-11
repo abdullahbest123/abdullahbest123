@@ -49,21 +49,15 @@
     <p style="color: red">Gem puzzle</p>
     <p> <strong>Tools: React, vite.Js,CSS-Variables, Express.js</strong>
       </p>
-   <p><strong>Project Title:</strong> Vaccine Scheduler</p>
-<p><strong>Overview:</strong> The Vaccine Scheduler project is a user-friendly web application designed to assist users in scheduling their COVID-19 vaccine appointments. The portal offers a straightforward and intuitive interface for registering, logging in, scheduling the first appointment, and confirming appointments. Here's an overview of its core features and functionalities:</p>
-<p><strong>Login and Registration:</strong></p>
-<p>Users can either log in or register for a new account. Registration requires personal information such as first name, last name, email, password, and confirmation of the password. A "Create Account" button facilitates registration.</p>
-<p><strong>Schedule First Appointment:</strong></p>
-<p>Registered users can schedule their first vaccine appointment. Users are prompted to select a preferred date for their appointment using a date picker. They can also choose their desired location, typically a local clinic.</p>
-<p><strong>Confirm Appointment:</strong></p>
-<p>After selecting a date and location, users can confirm their vaccine appointment.</p>
-<p><strong>Portal Access:</strong></p>
-<p>A welcoming message "Please login to the portal to see your appointment" encourages users to log in. Users are reminded to log in to access and manage their appointments.</p>
-<p><strong>Login:</strong></p>
-<p>Registered users can log in securely to access their account and appointment details.</p>
-<p><strong>Registration for a Vaccine:</strong></p>
-<p>A link to register for a vaccine appointment is provided for new users. Users can enter their personal information and create a new account to schedule appointments.</p>
-<p>The Vaccine Scheduler portal offers a user-friendly and efficient platform for managing vaccine appointments. It simplifies the process, making it easier for individuals to register, schedule, and confirm their vaccination appointments.</p>
+  <p><strong>Vaccine Scheduler:</strong> User-friendly web app for COVID-19 vaccine appointments.</p>
+<p><strong>Features:</strong></p>
+<p>1. Login and registration.</p>
+<p>2. Schedule appointments with date and location selection.</p>
+<p>3. Confirm appointments.</p>
+<p>4. Secure portal access.</p>
+<p>5. Login for account details.</p>
+<p>6. Easy registration for new users.</p>
+<p>Streamlined vaccination appointment management.</p>
 
     <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
       <p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image on the right.</p>
