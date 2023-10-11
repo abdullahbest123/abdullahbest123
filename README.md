@@ -1,4 +1,4 @@
-<p align="right">
+![lifetracker](https://github.com/abdullahbest123/abdullahbest123/assets/90556112/80eb2455-25a1-4a5c-8415-9cd94572df31)<p align="right">
 <a href="https://linkedin.com/in/Elena-Reach"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Elena-Reach" height="30" /></a>
 <a href="https://fb.com/volha.khviadchenia"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
 <a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
@@ -46,12 +46,12 @@
   </tr>
   <tr>
     <td>
-    <p style="color: red">Gem puzzle</p>
-    <p> <strong>Tools: pure HTML/CSS, CSS-Flexbox, CSS-Variables, DocumentFragment</strong>
+    <p style="color: red"> Vaccine Scheduler</p>
+    <p> <strong>Tools: React.js, Vite.js vanilla.js, Express.js</strong>
       </p>
     <p>The Vaccine Scheduler is a user-friendly web app for COVID-19 vaccine appointments. Register, schedule, and confirm appointments easily. Features include login, registration, date selection, location preference, and secure login for access.</p>
     <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
-      <p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image on the right.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/vaccsine">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
       <a href="https://confesssa.github.io/gem-puzzle/">
@@ -60,12 +60,11 @@
   </tr>
     <tr>
     <td>
-    <p style="color: red">Virtual-keyboard</p>
+    <p style="color: red">Life Tracker</p>
       <p>
-        <strong>Tools: pure HTML/CSS, CSS-Flexbox, CSS-Variables, JS-Classes, JS-Destructuring</strong>
+        <strong>Tools: React.js, Vite.js vanilla.js, CSS-Variables, JS-Classes, JS-Destructuring</strong>
       </p>
-      <p>The index.html file is empty, all elements are generated via JavaScript. The keyboard consists: alphanumeric keys (A-Z, 0-9), constrol keys (Shift, Ctrl, Alt, Caps Lock), Enter and editing keys (Del and Backspase), navigation keys (four arrows). 
-      The keyboard responds to keystrokes on both real keyboards and virtual ones (that is with the mouse). In all cases they are accompanied by the animation of a key being pressed.</p>
+      <p>The "LifeTracker" website is your destination for health and fitness. It offers various devices, encourages an active lifestyle, and features a trusted CodePath logo. Log in, register, and stay fit with advanced technology.</p>
       <p>You can find the code <a href="https://github.com/confesssa/virtual-keyboard">here</a>. Deploy is <a href="https://confesssa.github.io/virtual-keyboard/">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
