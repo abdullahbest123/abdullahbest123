@@ -1,9 +1,9 @@
 <a href="https://linkedin.com/in/Elena-Reach"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Elena-Reach" height="30" /></a>
 <a href="https://fb.com/volha.khviadchenia"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
 <a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssa"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Elena Reach" height="30"/></a>
+<a href="https://t.me/elenareach"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Elena Reach" height="30"/></a>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=elenareach&label=Profile%20views&color=0e75b6&style=flat" alt="elenareach" /> </p>
 
 # Elena Reach
 
@@ -83,7 +83,6 @@
       <p>The <strong>Elena Reach - Software Engineer Portfolio</strong> showcases Elena Reach's professional journey, projects, and technical skills. It highlights her expertise in React, Vue, Node and Elastic Search</p>
 <p>Discover Elena's software engineering expertise.</p>
       <p>You can find the code <a href="https://github.com/elenareach-developer/portfolio-vite">here</a>. Deploy is <a href="https://elenareach-developer.github.io/portfolio-vite/">here</a> or you can click on the image below.</p>
-
     </td>
     <td>
       <a href="https://elenareach-developer.github.io/portfolio-vite/">
@@ -177,10 +176,10 @@
       </p>
     <p>The "Samantha He - Software Developer Portfolio" is a comprehensive online showcase that provides insight into Samantha He's professional journey as a software developer.</p>
 <p>Explore her diverse experiences and notable work in mobile app design, web design, and product design. Connect with Samantha to learn more about her contributions to the tech world.</p>
-    <p>You can find the code <a href="https://github.com/confesssa/site-week1-lab1-personal-website-exemplar">here</a>. Deploy is <a href="https://confesssa.github.io/site-week1-lab1-personal-website-exemplar/index.html">here</a> or you can click on the image on the right.</p>
+    <p>You can find the code <a href="https://github.com/elenareach/site-week1-lab1-personal-website-exemplar">here</a>. Deploy is <a href="https://elenareach.github.io/site-week1-lab1-personal-website-exemplar/index.html">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/site-week1-lab1-personal-website-exemplar/index.html">
+      <a href="https://elenareach.github.io/site-week1-lab1-personal-website-exemplar/index.html">
       <img src ="./assets/simplehtml.png"></a>
     </td>
   </tr>
@@ -190,10 +189,10 @@
       <p>
         <strong>Tools: pure HTML/CSS, Bootstrap CSS + JS</strong>
       </p>
-      <p>You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a>. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image on the right.</p>
+      <p>You can find the code <a href="https://github.com/elenareach/Bootstrap-landing-page">here</a>. Deploy is <a href="https://elenareach.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">
+      <a href="https://elenareach.github.io/Bootstrap-landing-page/index.html">
         <img src ="./assets/bootstrap.jpg">
       </a>
     </td>
@@ -205,11 +204,11 @@
         <strong>Tools: vanilla JS, pure HTML/CSS, Flexbox, CSS-Variables</strong>
       </p>
       <p>It is a simple landing page.</p>
-      <p>You can find the code <a href="https://github.com/confesssa/singolo">here</a>. Deploy is <a href="https://confesssa.github.io/singolo/">here</a> or you can click on the image below.</p>
+      <p>You can find the code <a href="https://github.com/elenareach/singolo">here</a>. Deploy is <a href="https://elenareach.github.io/singolo/">here</a> or you can click on the image below.</p>
       <p><a href="https://www.figma.com/file/clXHoPLCjffBg5nL197EiJ/Singolo-(Copy)?node-id=0%3A1">Figma layout</a></p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/singolo/">
+      <a href="https://elenareach.github.io/singolo/">
         <img src ="./assets/singolo.png">
       </a>
     </td>
@@ -221,11 +220,11 @@
         <strong>Tools: pure HTML/CSS, Flexbox</strong>
       </p>
       <p>It is a two-page website about an animal shelter in Boston.</p>
-      <p>You can find the code <a href="https://github.com/confesssa/shelter">here</a>. Deploy is <a href="https://confesssa.github.io/shelter/pages/main/main.html">here</a> or you can click on the image below.</p>
+      <p>You can find the code <a href="https://github.com/elenareach/shelter">here</a>. Deploy is <a href="https://elenareach.github.io/shelter/pages/main/main.html">here</a> or you can click on the image below.</p>
       <p><a href="https://www.figma.com/file/7vtKQVvagB45XbB8dg4LGP/shelter-dom-(Copy)?node-id=94%3A43">Figma layout</a></p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/shelter/pages/main/main.html">
+      <a href="https://elenareach.github.io/shelter/pages/main/main.html">
         <img src ="./assets/shelter.png">
       </a>
     </td>
@@ -243,7 +242,7 @@
     <td>
       <p style="color: red">Clone-Monefy</p>
       <p> <strong>Tools: Сhart.js, Bootstrap, Express.js, TypeScript, MongoDB, vanilla JavaScript, pure HTML/CSS, Flexbox</strong></p>
-      <p>Details of the team's work can be read <a href="https://confesssa.medium.com/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-rolling-scopes-school-%D0%BA%D0%BB%D0%BE%D0%BD-monefy-4402a007b6aa"> in the article on Medium </a></p>
+      <p>Details of the team's work can be read <a href="https://elenareach.medium.com/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-rolling-scopes-school-%D0%BA%D0%BB%D0%BE%D0%BD-monefy-4402a007b6aa"> in the article on Medium </a></p>
       <p>You can find the code <a href="https://github.com/DimaKukhta/rsclone">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
@@ -256,10 +255,10 @@
       <p style="color: red">COVID-19</p>
       <p> <strong>Tools: REST API, fetch API, vanilla JavaScript, pure HTML/CSS, Flexbox</strong></p>
       <p>Application for tracking the spread of COVID-19 in the world and in individual countries. The information is provided in the form of a table, list, graph and interactive map.</p>
-      <p>You can find the code <a href="https://github.com/confesssa/COVID">here</a>. Deploy is <a href="https://confesssa.github.io/COVID/">here</a> or you can click on the image on the right.</p>
+      <p>You can find the code <a href="https://github.com/elenareach/COVID">here</a>. Deploy is <a href="https://elenareach.github.io/COVID/">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/COVID/">
+      <a href="https://elenareach.github.io/COVID/">
       <img src ="./assets/covid19.png"></a>
     </td>
   </tr>
@@ -268,17 +267,17 @@
 ---
 
 <!-- ### My publication -->
-<!-- <p>There is <a href="https://confesssa.medium.com/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-rolling-scopes-school-%D0%BA%D0%BB%D0%BE%D0%BD-monefy-4402a007b6aa"> an article on Medium </a>about our team project Clone-Monefy</p> -->
+<!-- <p>There is <a href="https://elenareach.medium.com/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-rolling-scopes-school-%D0%BA%D0%BB%D0%BE%D0%BD-monefy-4402a007b6aa"> an article on Medium </a>about our team project Clone-Monefy</p> -->
 
 ### My GitHub Stats
 
 <details>
  <summary> <b>click here</b> </summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=confesssa&show_icons=true&locale=en&layout=compact" alt="confesssa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elenareach&show_icons=true&locale=en&layout=compact" alt="elenareach" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=confesssa&show_icons=true&locale=en" alt="confesssa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elenareach&show_icons=true&locale=en" alt="elenareach" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=confesssa&" alt="confesssa" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elenareach&" alt="elenareach" /></p>
  </details>
 
  <!-- <details>
@@ -296,5 +295,5 @@
 <a href="https://linkedin.com/in/Elena-Reach?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Elena-Reach" height="30" /></a>
 <a href="https://fb.com/volha.khviadchenia" target="_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
 <a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Elena Reach" height="30"/></a>
+<a href="https://t.me/elenareach?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Elena Reach" height="30"/></a>
 </p>
