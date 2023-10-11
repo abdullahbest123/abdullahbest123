@@ -8,8 +8,8 @@
 
 # Elena Reach
 
-<p>For the last two years, I have devoted a lot of time and energy to web development. 💻 At first, I studied independently HTML, CSS, and JavaScript languages. Since September 2020, I began to attend the <a href="https://rs.school/poland/?target=_blank">Rolling Scopes School courses</a> and completed them successfully after six months, entering the top 300 students. 🎉 The courses helped me deepen my theoretical understanding of HTML, CSS, and JavaScript, and also honed my practical skills by completing lengthy hands-on exercises. I went ahead and I am currently exploring the React library and the related Redux, Hooks, and React Router.</p>
-<p>So I'm a junior front-end developer with React. I am looking for a position in Wrocław or remotely. For what concerns employment in Poland, I also have Karta Polaka. Feel free to contact me in case of any queries 🙌</p>
+<p>Over the last two years, I've dedicated significant time and effort to web development. 💻 Initially, I pursued self-study in HTML, CSS, and JavaScript. In September 2020, I enrolled in the <a href="https://rs.school/poland/?target=_blank">Rolling Scopes School</a> courses, and I successfully completed the program within six months, ranking among the top 300 students. 🎉 These courses not only deepened my theoretical knowledge of HTML, CSS, and JavaScript but also sharpened my practical skills through extensive hands-on exercises. I've since ventured into exploring the React library, along with its companions Redux, Hooks, and React Router.</p>
+<p>Currently, I consider myself a junior front-end developer specializing in React. I'm actively seeking opportunities in Wrocław or remote positions. For potential job opportunities in Poland, it's worth noting that I hold a Karta Polaka. Please don't hesitate to get in touch if you have any questions or opportunities to discuss. 🙌</p>
 
 ---
 
@@ -49,7 +49,22 @@
     <p style="color: red">Gem puzzle</p>
     <p> <strong>Tools: React, vite.Js,CSS-Variables, Express.js</strong>
       </p>
-    <p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
+   <p><strong>Project Title:</strong> Vaccine Scheduler</p>
+<p><strong>Overview:</strong> The Vaccine Scheduler project is a user-friendly web application designed to assist users in scheduling their COVID-19 vaccine appointments. The portal offers a straightforward and intuitive interface for registering, logging in, scheduling the first appointment, and confirming appointments. Here's an overview of its core features and functionalities:</p>
+<p><strong>Login and Registration:</strong></p>
+<p>Users can either log in or register for a new account. Registration requires personal information such as first name, last name, email, password, and confirmation of the password. A "Create Account" button facilitates registration.</p>
+<p><strong>Schedule First Appointment:</strong></p>
+<p>Registered users can schedule their first vaccine appointment. Users are prompted to select a preferred date for their appointment using a date picker. They can also choose their desired location, typically a local clinic.</p>
+<p><strong>Confirm Appointment:</strong></p>
+<p>After selecting a date and location, users can confirm their vaccine appointment.</p>
+<p><strong>Portal Access:</strong></p>
+<p>A welcoming message "Please login to the portal to see your appointment" encourages users to log in. Users are reminded to log in to access and manage their appointments.</p>
+<p><strong>Login:</strong></p>
+<p>Registered users can log in securely to access their account and appointment details.</p>
+<p><strong>Registration for a Vaccine:</strong></p>
+<p>A link to register for a vaccine appointment is provided for new users. Users can enter their personal information and create a new account to schedule appointments.</p>
+<p>The Vaccine Scheduler portal offers a user-friendly and efficient platform for managing vaccine appointments. It simplifies the process, making it easier for individuals to register, schedule, and confirm their vaccination appointments.</p>
+
     <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
       <p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image on the right.</p>
     </td>
