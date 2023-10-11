@@ -1,14 +1,14 @@
 <p align="right">
-<a href="https://linkedin.com/in/volha-khviadchenia"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
+<a href="https://linkedin.com/in/Elena-Reach"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Elena-Reach" height="30" /></a>
 <a href="https://fb.com/volha.khviadchenia"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
 <a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssa"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
+<a href="https://t.me/confesssa"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Elena Reach" height="30"/></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
-# Volha Khviadchenia
+# Elena Reach
 
-<p>For the last two years I have devoted a lot of time and energy to web development. 💻 At first I studied independently HTML, CSS and Javascript languages. Since September 2020 I began to attend the <a href="https://rs.school/poland/?target=_blank">Rollings Scopes School courses</a> and completed them successfully after 6 months, entering the top 300 students. 🎉 The courses helped me deepen my theoretical understanding of HTML, CSS, and JavaScript, and also hone my practical skills by completing lengthy hands-on exercises. I went ahead and I am currently exploring the React library and the related Redux, Hooks and React Router.</p>
+<p>For the last two years, I have devoted a lot of time and energy to web development. 💻 At first, I studied independently HTML, CSS, and JavaScript languages. Since September 2020, I began to attend the <a href="https://rs.school/poland/?target=_blank">Rolling Scopes School courses</a> and completed them successfully after six months, entering the top 300 students. 🎉 The courses helped me deepen my theoretical understanding of HTML, CSS, and JavaScript, and also honed my practical skills by completing lengthy hands-on exercises. I went ahead and I am currently exploring the React library and the related Redux, Hooks, and React Router.</p>
 <p>So I'm a junior front-end developer with React. I am looking for a position in Wrocław or remotely. For what concerns employment in Poland, I also have Karta Polaka. Feel free to contact me in case of any queries 🙌</p>
 
 ---
@@ -33,92 +33,11 @@
 
 ---
 
-### Education
-
-**Web development courses**
-
-- [Rolling Scopes School](https://rs.school/poland/?target=_blank)
-  <details><summary>to see certificate click here</summary>
-  <p><img width="50%" src="./assets/Certificate.jpg"></p>
-   </details>
-
-- [React - Professional Development](https://www.udemy.com/course/pro-react-redux/?target=_blank) (incl Hooks, React Router, Redux)
-- [Computer Science Basics](https://learn.epam.com/detailsPage?id=4b131384-7829-4204-a27b-21c538b41f88)
-
-- Codewars exercises
-  <details> 
-    <summary> statistic is here </summary>
-  <p><a href="https://www.codewars.com/users/confesssa/stats?target=_blank">
-  <img src="https://www.codewars.com/users/confesssa/badges/small" alt="codewars">
-  </img>
-  </a></p>
-   </details>
-
-**Higher education**
-
-- Brest State Technical University, Enterprise Economy and Management
-
----
-
 ### My projects
 
 <i>At the moment I improve my React skills.</i> 💪
 
-### React apps
-
-<table border="0">
-  <tr>
-    <th>Project description</th>
-    <th width="35%">Preview</th>
-  </tr>
-  <tr>
-    <td>
-    <p style="color: red">ToDo APP</p>
-      <p>
-        <strong>Tools: React</strong>
-      </p>
-      <p>
-      Here's a simple todo app implemented with React. The project has the following functions:</p>
-      <ul>
-        <li>add and delete task records;</li>
-        <li>highlight important tasks with a color, crossing out completed tasks;</li>
-        <li>search though the tasks;</li>
-        <li>three types of filters, to display: all tasks, tasks to be performed and completed tasks;</li>
-        <li>an information line that displays the number of uncompleted and completed tasks.</li>
-      </ul>
-      <p>You can find the code <a href="https://github.com/confesssa/todo-list">here</a>. Deploy is <a href="https://confesssa.github.io/todo-list/">here</a> or you can click on the image on the right.</p>
-    </td>
-    <td>
-    <a href="https://confesssa.github.io/todo-list/">
-      <img src ="./assets/todo.png">
-    </a>
-</td>
-  </tr>
-    <tr>
-    <td>
-    <p style="color: red">TIC-TAC-TOE</p>
-      <p>
-        <strong>Tools: React</strong>
-      </p>
-      <p>
-        This version of the game allows you to:
-      </p>
-      <ul>
-        <li>play tic-tac-toe;</li>
-        <li>shows when one of the players has won;</li>
-        <li>stores the history of the game;</li>
-        <li>allows players to view the history of the game and see past states of the playing field;</li>
-      </ul>
-      <p>You can find the code <a href="https://github.com/confesssa/tic-tac-toe">here</a>. Deploy is <a href="https://confesssa.github.io/tic-tac-toe/?target=_blank">here</a> or you can click on the image on the right.</p>
-    </td>
-    <td>
-    <a href="https://confesssa.github.io/tic-tac-toe/">
-<img src ="./assets/tic-tac-toe.png"></a>
-</td>
-  </tr>
-</table>
-
-### Vanilla JS apps
+### React Apps
 
 <table border="0">
   <tr>
@@ -128,9 +47,59 @@
   <tr>
     <td>
     <p style="color: red">Gem puzzle</p>
-    <p> <strong>Tools: pure HTML/CSS, CSS-Flexbox, CSS-Variables, DocumentFragment</strong>
+    <p> <strong>Tools: React, vite.Js,CSS-Variables, Express.js</strong>
       </p>
-    <p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
+    <h1>Project Title: Vaccine Scheduler</h1>
+
+<h2>Overview:</h2>
+<p>The Vaccine Scheduler project is a user-friendly web application designed to assist users in scheduling their COVID-19 vaccine appointments. The portal offers a straightforward and intuitive interface for registering, logging in, scheduling the first appointment, and confirming appointments. Here's an overview of its core features and functionalities:</p>
+
+<ol>
+    <li>
+        <h3>Login and Registration:</h3>
+        <ul>
+            <li>Users can either log in or register for a new account.</li>
+            <li>Registration requires personal information such as first name, last name, email, password, and confirmation of the password.</li>
+            <li>A "Create Account" button facilitates registration.</li>
+        </ul>
+    </li>
+    <li>
+        <h3>Schedule First Appointment:</h3>
+        <ul>
+            <li>Registered users can schedule their first vaccine appointment.</li>
+            <li>Users are prompted to select a preferred date for their appointment using a date picker.</li>
+            <li>They can also choose their desired location, typically a local clinic.</li>
+        </ul>
+    </li>
+    <li>
+        <h3>Confirm Appointment:</h3>
+        <ul>
+            <li>After selecting a date and location, users can confirm their vaccine appointment.</li>
+        </ul>
+    </li>
+    <li>
+        <h3>Portal Access:</h3>
+        <ul>
+            <li>A welcoming message "Please login to the portal to see your appointment" encourages users to log in.</li>
+            <li>Users are reminded to log in to access and manage their appointments.</li>
+        </ul>
+    </li>
+    <li>
+        <h3>Login:</h3>
+        <ul>
+            <li>Registered users can log in securely to access their account and appointment details.</li>
+        </ul>
+    </li>
+    <li>
+        <h3>Registration for a Vaccine:</h3>
+        <ul>
+            <li>A link to register for a vaccine appointment is provided for new users.</li>
+            <li>Users can enter their personal information and create a new account to schedule appointments.</li>
+        </ul>
+    </li>
+</ol>
+<p>The Vaccine Scheduler portal offers a user-friendly and efficient platform for managing vaccine appointments. It simplifies the process, making it easier for individuals to register, schedule, and confirm their vaccination appointments.</p>
+
     <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
       <p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image on the right.</p>
     </td>
@@ -319,8 +288,8 @@
 ### Contact me 📫
 
 <p align="left">
-<a href="https://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
+<a href="https://linkedin.com/in/Elena-Reach?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Elena-Reach" height="30" /></a>
 <a href="https://fb.com/volha.khviadchenia" target="_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
 <a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
+<a href="https://t.me/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Elena Reach" height="30"/></a>
 </p>
