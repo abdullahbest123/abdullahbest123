@@ -49,7 +49,7 @@
     <p style="color: red">Gem puzzle</p>
     <p> <strong>Tools: pure HTML/CSS, CSS-Flexbox, CSS-Variables, DocumentFragment</strong>
       </p>
-    <p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
+    <p>The Vaccine Scheduler is a user-friendly web app for COVID-19 vaccine appointments. Register, schedule, and confirm appointments easily. Features include login, registration, date selection, location preference, and secure login for access.</p>
     <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
       <p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image on the right.</p>
     </td>
