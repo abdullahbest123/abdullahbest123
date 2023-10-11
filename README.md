@@ -90,7 +90,6 @@
       </a>
     </td>
   </tr>
-
    <tr>
       <td>
       <p style="color: red">E-Commerce Store</p>
@@ -99,7 +98,6 @@
       </p>
      <p>The <strong>Online Store</strong> is your convenient e-commerce destination. Explore a wide range of products and enjoy exclusive offers. Shop from a diverse selection, easily manage your cart, and reach out to us for support or inquiries. Experience hassle-free online shopping at the Online Store!</p>
       <p>You can find the code <a href="https://github.com/elenareach-developer/student-store">here</a>. Deploy is <a href="https://elenareach-developer.github.io/student-store/">here</a> or you can click on the image below.</p>
-
     </td>
     <td>
       <a href="https://elenareach-developer.github.io/student-store/">
@@ -107,7 +105,6 @@
       </a>
     </td>
   </tr>
-
  <tr>
       <td>
       <p style="color: red">React Learning Showcase</p>
@@ -118,7 +115,6 @@
 <p>1. Layout, Navigation, Hooks, Counting, State Updates, Quizzes - Enhance your React skills.</p>
 <p>Perfect for developers looking to level up their React game.</p>
       <p>You can find the code <a href="https://github.com/elenareach-developer/useState-react">here</a>. Deploy is <a href="https://elenareach-developer.github.io/useState-react/">here</a> or you can click on the image below.</p>
-
     </td>
     <td>
       <a href="https://elenareach-developer.github.io/useState-react/">
@@ -126,7 +122,6 @@
       </a>
     </td>
   </tr>
-
  <tr>
       <td>
       <p style="color: red">Dynamic Number Generator</p>
@@ -136,7 +131,6 @@
      <p>The "Dynamic Number Generator" is a user-friendly web app for uploading PDF files, displaying dynamic numbers, and user control.</p>
 <p>Upload PDFs, see real-time numbers, and manage auto-generation with Start and Stop buttons. It's a practical tool for various tasks.</p>
       <p>You can find the code <a href="https://github.com/elenareach-developer/randomButtons---react">here</a>. Deploy is <a href="https://elenareach-developer.github.io/randomButtons---react/">here</a> or you can click on the image below.</p>
-
     </td>
     <td>
       <a href="https://elenareach-developer.github.io/randomButtons---react/">
@@ -144,7 +138,6 @@
       </a>
     </td>
   </tr>
-
 </table>
 
 ### Web-site`s template
@@ -168,7 +161,6 @@
       <img src ="./assets/Helsinkicitybike.png"></a>
     </td>
   </tr>
-
   <tr>
     <td>
     <p style="color: red">Relvise</p>
@@ -183,86 +175,7 @@
       <img src ="./assets/simplehtml.png"></a>
     </td>
   </tr>
-    <tr>
-    <td>
-    <p style="color: red">The Landing page about Bootstrap, created using Bootstrap 😆</p>
-      <p>
-        <strong>Tools: pure HTML/CSS, Bootstrap CSS + JS</strong>
-      </p>
-      <p>You can find the code <a href="https://github.com/elenareach/Bootstrap-landing-page">here</a>. Deploy is <a href="https://elenareach.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image on the right.</p>
-    </td>
-    <td>
-      <a href="https://elenareach.github.io/Bootstrap-landing-page/index.html">
-        <img src ="./assets/bootstrap.jpg">
-      </a>
-    </td>
-    </tr>
-        <tr>
-      <td>
-      <p style="color: red">Singolo</p>
-      <p>
-        <strong>Tools: vanilla JS, pure HTML/CSS, Flexbox, CSS-Variables</strong>
-      </p>
-      <p>It is a simple landing page.</p>
-      <p>You can find the code <a href="https://github.com/elenareach/singolo">here</a>. Deploy is <a href="https://elenareach.github.io/singolo/">here</a> or you can click on the image below.</p>
-      <p><a href="https://www.figma.com/file/clXHoPLCjffBg5nL197EiJ/Singolo-(Copy)?node-id=0%3A1">Figma layout</a></p>
-    </td>
-    <td>
-      <a href="https://elenareach.github.io/singolo/">
-        <img src ="./assets/singolo.png">
-      </a>
-    </td>
-  </tr>
-    <tr>
-      <td>
-      <p style="color: red">Shelter</p>
-      <p>
-        <strong>Tools: pure HTML/CSS, Flexbox</strong>
-      </p>
-      <p>It is a two-page website about an animal shelter in Boston.</p>
-      <p>You can find the code <a href="https://github.com/elenareach/shelter">here</a>. Deploy is <a href="https://elenareach.github.io/shelter/pages/main/main.html">here</a> or you can click on the image below.</p>
-      <p><a href="https://www.figma.com/file/7vtKQVvagB45XbB8dg4LGP/shelter-dom-(Copy)?node-id=94%3A43">Figma layout</a></p>
-    </td>
-    <td>
-      <a href="https://elenareach.github.io/shelter/pages/main/main.html">
-        <img src ="./assets/shelter.png">
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Team-project I took part in
-
-<table border="0">
-  <tr>
-    <th>Project description</th>
-    <th width="35%">Preview</th>
-  </tr>
-    <tr>
-    <td>
-      <p style="color: red">Clone-Monefy</p>
-      <p> <strong>Tools: Сhart.js, Bootstrap, Express.js, TypeScript, MongoDB, vanilla JavaScript, pure HTML/CSS, Flexbox</strong></p>
-      <p>Details of the team's work can be read <a href="https://elenareach.medium.com/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-rolling-scopes-school-%D0%BA%D0%BB%D0%BE%D0%BD-monefy-4402a007b6aa"> in the article on Medium </a></p>
-      <p>You can find the code <a href="https://github.com/DimaKukhta/rsclone">here</a> or you can click on the image on the right.</p>
-    </td>
-    <td>
-      <a href="https://github.com/DimaKukhta/rsclone">
-      <img src ="./assets/monefy.jpg"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p style="color: red">COVID-19</p>
-      <p> <strong>Tools: REST API, fetch API, vanilla JavaScript, pure HTML/CSS, Flexbox</strong></p>
-      <p>Application for tracking the spread of COVID-19 in the world and in individual countries. The information is provided in the form of a table, list, graph and interactive map.</p>
-      <p>You can find the code <a href="https://github.com/elenareach/COVID">here</a>. Deploy is <a href="https://elenareach.github.io/COVID/">here</a> or you can click on the image on the right.</p>
-    </td>
-    <td>
-      <a href="https://elenareach.github.io/COVID/">
-      <img src ="./assets/covid19.png"></a>
-    </td>
-  </tr>
-</table>
+   </table>
 
 ---
 
