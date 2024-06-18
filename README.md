@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/waving.gif">, I'm DevMirza</h1>
+    <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/waving.gif">, I'm Abdullah</h1>
     <h4 align="center">A Full-stack developer who codes Sh$t Stuffs!</h4>
 </div>
 
@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#3](https://github.com/abdullahbest123/uptime-kuma/pull/3) in [abdullahbest123/uptime-kuma](https://github.com/abdullahbest123/uptime-kuma)
-2. 🗣 Commented on [#90](https://github.com/DevMirza-Blog/status/issues/90#issuecomment-2172992712) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. 🔒 Closed issue [#90](https://github.com/DevMirza-Blog/status/issues/90) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. 🔒 Closed issue [#89](https://github.com/DevMirza-Blog/status/issues/89) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+2. 🗣 Commented on [#90](https://github.com/abdullahbest123/status/issues/90#issuecomment-2172992712) in [abdullahbest123/status](https://github.com/abdullahbest123/status)
+3. 🔒 Closed issue [#90](https://github.com/abdullahbest123/status/issues/90) in [abdullahbest123/status](https://github.com/abdullahbest123/status)
+4. 🔒 Closed issue [#89](https://github.com/abdullahbest123/status/issues/89) in [abdullahbest123/status](https://github.com/abdullahbest123/status)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
